@@ -6,11 +6,10 @@ Comecei a estudar programação em 2015, quando aos 14 anos, comecei a criar pá
 Hoje em dia, trabalho com programação em PHP, porém também estudo Python e JavaScript, buscando me tornar um programador mais completo.
 
 ## ⚡ Atividade Principal:
-  > Desenvolvedor Front
+  > Desenvolvedor Front - End
 
 ## 🔗 Redes Sociais:
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfpfelix/)](https://www.linkedin.com/in/lucasfpfelix/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/luketadev?style=social)]
+![Twitter Follow](https://img.shields.io/twitter/follow/luketadev?style=social)
 
 ## 🔥 Estudo:
   > Ciências da Computação (4/8)
