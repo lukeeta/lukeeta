@@ -15,10 +15,8 @@ Hoje em dia, trabalho com programação em PHP, porém também estudo Python e J
   > Ciências da Computação (4/8)
  
 ## 💻 Tecnologias que tenho conhecimento:
-  * HTML
-  * CSS
-  * JS
-  * PHP
-  * NodeJS
-  * SASS
-  * Python
+  * Front-End (HTML, CSS, JS);
+  * Frameworks e outros (NodeJS, SASS, Bootstrap, React);
+  * Back-End (PHP);
+  * Linguagens (Python);
+  * DevOps (AWS);
